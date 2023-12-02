@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahbarajaib
-- 👀 I’m interested in Fitness
-- 🌱 I’m currently learning mongoDB
+- 👀 Full Stack MERN Developer
+- 🌱 Learning TypeScript
 - 📫 How to reach me on [Instagram/ahbarajaib](https://www.instagram.com/ahbarajaib/)
 
 <!---
